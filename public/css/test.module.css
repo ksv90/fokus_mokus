@@ -1,0 +1,24 @@
+.root {
+	width: 80%;
+}
+
+.no {
+	background: #e33848;
+}
+
+.yes {
+	background: #00ffa3;
+}
+
+.text {
+	font-size: 3.9vw;
+	color: #fff;
+	text-align: left;
+}
+
+.buttons button {
+	display: block;
+	width: 400px;
+	margin: 20px;
+	font-size: 1.1em;
+}
